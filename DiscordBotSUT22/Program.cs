@@ -21,7 +21,7 @@ namespace DiscordBotSUT22
         //List of strings to hold parsed Html
         private List<string> classesList = new List<string>();
 
-        //Final List of InsiderTransaction objects
+        //Final List of OnSiteLectures objects
         private List<OnSiteLecture> finishedList = new List<OnSiteLecture>();
 
         //String to hold the raw Html
