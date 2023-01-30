@@ -1,7 +1,7 @@
 # DiscordBotSUT22  
   
   
-### Console application Discord bot with periodic webscraping functions  
+### Console application Discord bot with webscraping functions  
 Developed in .NET 6 and C# 10.0 with Discord.NET framework  
 Martin Qvarnström SUT22 Campus Varberg, mqvarnstrom80@gmail.com  
   
